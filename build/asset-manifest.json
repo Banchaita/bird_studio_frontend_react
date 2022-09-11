@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f90694a.css",
+    "main.js": "/static/js/main.5c4ec7d7.js",
+    "static/js/787.fe80347b.chunk.js": "/static/js/787.fe80347b.chunk.js",
+    "static/media/homepage.png": "/static/media/homepage.ed24bcd3143d6988849e.png",
+    "static/media/blur_background.png": "/static/media/blur_background.fe47af904c6fd8bf0b2b.png",
+    "static/media/result-board.png": "/static/media/result-board.660df5f3900b293a5385.png",
+    "static/media/background1.png": "/static/media/background1.4bd96170c7ab6761b5e9.png",
+    "static/media/logo.png": "/static/media/logo.2cbf6fb360b35bcfdae5.png",
+    "static/media/background.png": "/static/media/background.19b57a486fce94d1bc1b.png",
+    "static/media/intro2.png": "/static/media/intro2.1a8885e34dd5baab9aa9.png",
+    "static/media/intro1.png": "/static/media/intro1.618cd3eec83719ae177d.png",
+    "static/media/level1.png": "/static/media/level1.8654f90a70d2ee60b01e.png",
+    "static/media/Peacock-sound.mp3": "/static/media/Peacock-sound.a5ca929a3e109e11c7c7.mp3",
+    "static/media/mobile_view.png": "/static/media/mobile_view.63505da4618a0d1fbdac.png",
+    "static/media/pass.png": "/static/media/pass.b91e46186805b5e1570d.png",
+    "static/media/timer.png": "/static/media/timer.aed3671c3425249ed94d.png",
+    "static/media/timer2.png": "/static/media/timer2.780ad50bb2c66d458131.png",
+    "static/media/timer3.png": "/static/media/timer3.dbe8a3cd1ddade3150d9.png",
+    "static/media/fail.png": "/static/media/fail.d527b157843d776ef758.png",
+    "static/media/play-button.png": "/static/media/play-button.dfdcd68ab06dfaa0b13a.png",
+    "index.html": "/index.html",
+    "main.1f90694a.css.map": "/static/css/main.1f90694a.css.map",
+    "main.5c4ec7d7.js.map": "/static/js/main.5c4ec7d7.js.map",
+    "787.fe80347b.chunk.js.map": "/static/js/787.fe80347b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f90694a.css",
+    "static/js/main.5c4ec7d7.js"
+  ]
+}
